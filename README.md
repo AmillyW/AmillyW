@@ -15,6 +15,6 @@ You can click the Preview link to take a look at your changes.
 
 # Interests
 - International Music
-- Electronics
+- Electronic Music
 - Geometry and Physics
 - Classical Field Theory
