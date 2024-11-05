@@ -1,5 +1,6 @@
+# Hi there! 🤩
 - 👋 Hi, I’m @AmillyW
-- 👀 I’m interested in Mathematics, Theoretical Physics, and Cosmology.
+- 👀 I’m interested in Mathematics, Theoretical Physics, Cosmology, and Computer Science.
 - 👩‍💻 I enjoy interacting with people from different cultures!
 
 <!---
