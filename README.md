@@ -8,10 +8,10 @@ AmillyW/AmillyW is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 
-# Basic Info
+# Basic Information
 - Name: **Amilly Wang** (or you can call me "**Esperanza**" as a nickname)
 - I'm an undergraduate student majoring in **Physics**.
-- Contact Info: awforph67@gmail.com
+- Contact Information: <br>For academic and research-related matters: amillyforph@outlook.com <br>For all other inquiries awforph67@gmail.com
 
 
 # Interests
