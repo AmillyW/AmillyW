@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 
 # Contact Information:
 - For academic and research-related matters: amillyforph@outlook.com
-- For all other inquiries awforph67@gmail.com
+- For all other inquiries: awforph67@gmail.com
 
 # Interests
 - International Music
