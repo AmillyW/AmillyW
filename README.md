@@ -17,7 +17,8 @@ You can click the Preview link to take a look at your changes.
 - For all other inquiries: awforph67@gmail.com
 
 # Interests
-- International Music
+- International Pop Music
+- R&B/Soul
 - Electronic Music
 - Geometry and Physics
 - Classical Field Theory
