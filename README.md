@@ -1,5 +1,5 @@
 # Hi there! 🤩
-- 👋 Hi, I’m @AmillyW
+- 👋 Hi, I’m [@AmillyW](https://github.com/AmillyW)
 - 👀 I’m interested in Mathematics, Theoretical Physics, Cosmology, and Computer Science.
 - 👩‍💻 I enjoy interacting with people from different cultures!
 
