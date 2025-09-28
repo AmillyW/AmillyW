@@ -16,12 +16,7 @@ You can click the Preview link to take a look at your changes.
 - For academic and research-related matters: amillyforph@outlook.com
 - For all other inquiries: awforph67@gmail.com
 
-# Interests
-- International Pop Music
-- R&B/Soul
-- Electronic Music
-- Geometry and Physics
-- Classical Field Theory
+
 
 # Membership
 My soul mate [@Kevin Yu](https://github.com/Phiyu)
